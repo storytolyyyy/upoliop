@@ -1,0 +1,20 @@
+{
+  "name": "upoliop",
+  "version": "1.0.0",
+  "description": "A simple npm package for fetching cryptocurrency data.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/storytolyyyy/upoliop.git"
+  },
+  "author": "storytolyyyy",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  }
+}
